@@ -61,6 +61,9 @@ I enjoy building real-world engineering systems and continuously learning new te
 
 ## 📬 Contact
 
+Linked: https://www.linkedin.com/in/ziad-aburahma/
+Email: ziadaburahma99@gmail.com
+
 <p align="center">
   <a href="[PUT YOUR LINKEDIN HERE]">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="22px" width="22px"/>
