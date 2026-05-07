@@ -1,4 +1,4 @@
-# Hi, I'm Ziad Ahmed ⚡
+# Hi, I'm Ziad Aborahma ⚡
 
 <p align="center">
   <b>Embedded Systems Engineer | EV Team Member | IEEE AAST</b>
@@ -7,75 +7,74 @@
 ---
 
 ## 🚗 About Me
+I am an engineering student passionate about **Embedded Systems and Electric Vehicles (EV)**.  
+Currently a member of the **EV Team (ROBEN) at AAST** and **IEEE AAST**.  
 
-I am an Electrical Engineering student passionate about **Embedded Systems and Electric Vehicles (EV)**.  
-Currently, I am a member of the **EV Team (ROBEN) at AAST** and part of **IEEE AAST**.
-
-I work on developing **electrical and embedded subsystems** for a full electric vehicle, collaborating with multiple teams to build a competitive product for international competitions.
-
----
-
-## ⚡ My Projects
-
-### 🔋 Battery Management System (BMS)
-- Designed a system to monitor battery voltage and temperature
-- Implemented using embedded C
-- Focused on safety and real-time monitoring
+I enjoy building real-world engineering systems and continuously learning new technologies.
 
 ---
 
-### ⚙️ Motor Control System
-- Controlled motor speed using PWM signals
-- Integrated hardware and software components
-- Applied control concepts for stable performance
+## ⚡ Projects
+
+### 🏠 Smart Home System
+- Designed an automated smart home system
+- Controlled devices using sensors and microcontrollers
+- Focus on automation and user control
 
 ---
 
-### 🌡️ Sensor Monitoring System
-- Collected and processed sensor data (temperature, current, etc.)
-- Real-time embedded system design
-- Used communication protocols (UART / I2C)
+### 🔌 DC Converter (12V → 9V)
+- Designed a voltage conversion circuit (12V to 9V)
+- Used for powering low-voltage components safely
+- Focused on efficiency and stability
 
 ---
 
-### 🚗 EV Embedded Subsystems
-- Contributed to building electrical subsystems for a full EV
-- Worked on integration between multiple teams (6 teams collaboration)
-- Participated in preparation for international competitions (e.g., Shell)
+### 🔥 Electric Heater
+- Built an embedded-controlled heating system
+- Implemented safety considerations and power control
+- Applied basic thermal and electrical concepts
 
 ---
 
 ## 🛠️ Skills
-
 - **Programming:** C / C++
-- **Embedded Systems:** Arduino, STM32 (learning)
-- **Communication Protocols:** UART, I2C, SPI
+- **Embedded Systems:** Arduino (learning STM32)
+- **Electronics:** Circuit Design, Power Systems
 - **Tools:** Git, Proteus, MATLAB (basic)
-- **Concepts:** Electronics, Circuit Design, Debugging
 
 ---
 
 ## 🎯 Goals
-
-- Advance in embedded systems and low-level programming  
-- Build high-performance engineering projects  
-- Prepare for internships and global tech opportunities
+- Improve embedded systems and low-level programming skills  
+- Work on advanced EV systems  
+- Become a competitive candidate for global tech companies  
 
 ---
 
 ## 🤝 Experience
-
 - EV Team Member – ROBEN (AAST)
 - IEEE AAST Member
-- Worked on team-based engineering projects with real-world applications
+- Team-based engineering projects
 
 ---
 
 ## 📬 Contact
 
-- LinkedIn: [(https://www.linkedin.com/in/ziad-aburahma/)]
+<p align="center">
+  <a href="[PUT YOUR LINKEDIN HERE]">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="22px" width="22px"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:[YOUR EMAIL HERE]">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" height="22px" width="22px"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="[YOUR GITHUB LINK HERE]">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" height="22px" width="22px"/>
+  </a>
+</p>
 
 ---
 
 ## 🚀 More Projects Coming Soon...
-``
