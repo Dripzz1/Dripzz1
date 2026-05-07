@@ -8,7 +8,7 @@
 
 ## 🚗 About Me
 
-I am an engineering student passionate about **Embedded Systems and Electric Vehicles (EV)**.  
+I am an Electrical Engineering student passionate about **Embedded Systems and Electric Vehicles (EV)**.  
 Currently, I am a member of the **EV Team (ROBEN) at AAST** and part of **IEEE AAST**.
 
 I work on developing **electrical and embedded subsystems** for a full electric vehicle, collaborating with multiple teams to build a competitive product for international competitions.
@@ -59,7 +59,7 @@ I work on developing **electrical and embedded subsystems** for a full electric 
 
 - Advance in embedded systems and low-level programming  
 - Build high-performance engineering projects  
-- Prepare for internships and global tech opportunities (e.g., NVIDIA)
+- Prepare for internships and global tech opportunities
 
 ---
 
@@ -73,8 +73,7 @@ I work on developing **electrical and embedded subsystems** for a full electric 
 
 ## 📬 Contact
 
-- LinkedIn: [Add your link here]
-- GitHub: [Add your GitHub link here]
+- LinkedIn: [(https://www.linkedin.com/in/ziad-aburahma/)]
 
 ---
 
