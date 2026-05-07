@@ -41,7 +41,6 @@ I enjoy building real-world engineering systems and continuously learning new te
 - **Programming:** C / C++
 - **Embedded Systems:** Arduino (learning STM32)
 - **Electronics:** Circuit Design, Power Systems
-- **Tools:** Git, Proteus, MATLAB (basic)
 
 ---
 
