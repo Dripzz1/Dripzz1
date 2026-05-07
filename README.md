@@ -1,53 +1,82 @@
-# 🚗 Project Title
-Short one-line description of your project.
+# Hi, I'm Ziad Ahmed ⚡
+
+<p align="center">
+  <b>Embedded Systems Engineer | EV Team Member | IEEE AAST</b>
+</p>
 
 ---
 
-## 📌 Overview
-Brief explanation of the project:
-- What it does
-- Why you built it
-- Where it is used (EV, embedded systems, etc.)
+## 🚗 About Me
+
+I am an engineering student passionate about **Embedded Systems and Electric Vehicles (EV)**.  
+Currently, I am a member of the **EV Team (ROBEN) at AAST** and part of **IEEE AAST**.
+
+I work on developing **electrical and embedded subsystems** for a full electric vehicle, collaborating with multiple teams to build a competitive product for international competitions.
 
 ---
 
-## 🎯 Objectives
-- Objective 1
-- Objective 2
-- Objective 3
+## ⚡ My Projects
+
+### 🔋 Battery Management System (BMS)
+- Designed a system to monitor battery voltage and temperature
+- Implemented using embedded C
+- Focused on safety and real-time monitoring
 
 ---
 
-## 🛠️ Technologies & Tools
-- Microcontroller: (Arduino / STM32 / etc.)
-- Programming Language: (C / C++)
-- Software Tools: (Proteus, MATLAB, etc.)
-- Communication: (CAN, UART, I2C, etc.)
+### ⚙️ Motor Control System
+- Controlled motor speed using PWM signals
+- Integrated hardware and software components
+- Applied control concepts for stable performance
 
 ---
 
-## ⚙️ System Design
-### 🔹 Block Diagram
-(Add image here if available)
-
-### 🔹 Components Used
-- Component 1
-- Component 2
-- Sensors, Drivers, etc.
+### 🌡️ Sensor Monitoring System
+- Collected and processed sensor data (temperature, current, etc.)
+- Real-time embedded system design
+- Used communication protocols (UART / I2C)
 
 ---
 
-## 🔧 How It Works
-Explain simply:
-1. Step 1
-2. Step 2
-3. Step 3
+### 🚗 EV Embedded Subsystems
+- Contributed to building electrical subsystems for a full EV
+- Worked on integration between multiple teams (6 teams collaboration)
+- Participated in preparation for international competitions (e.g., Shell)
 
 ---
 
-## 💻 Installation & Usage
-Steps to run your project:
+## 🛠️ Skills
 
-```bash
-git clone https://github.com/yourusername/project-name
-cd project-name
+- **Programming:** C / C++
+- **Embedded Systems:** Arduino, STM32 (learning)
+- **Communication Protocols:** UART, I2C, SPI
+- **Tools:** Git, Proteus, MATLAB (basic)
+- **Concepts:** Electronics, Circuit Design, Debugging
+
+---
+
+## 🎯 Goals
+
+- Advance in embedded systems and low-level programming  
+- Build high-performance engineering projects  
+- Prepare for internships and global tech opportunities (e.g., NVIDIA)
+
+---
+
+## 🤝 Experience
+
+- EV Team Member – ROBEN (AAST)
+- IEEE AAST Member
+- Worked on team-based engineering projects with real-world applications
+
+---
+
+## 📬 Contact
+
+- LinkedIn: [Add your link here]
+- GitHub: [Add your GitHub link here]
+
+---
+
+## 🚀 More Projects Coming Soon...
+``
